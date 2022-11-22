@@ -1,2 +1,1 @@
-I'm Mr.Justice Boye, a now ALX student.
-This is my first code 
+How to be up to date in git
